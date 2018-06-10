@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小卢同学</title>
+  
+  <subtitle>一个正在努力的前端小白</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-06-10T12:20:27.606Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>小卢同学</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Hexo和github搭建的博客</title>
+    <link href="http://yoursite.com/2018/06/10/%E5%9F%BA%E4%BA%8EHexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/06/10/基于Hexo和github搭建的博客/</id>
+    <published>2018-06-10T10:29:08.000Z</published>
+    <updated>2018-06-10T12:20:27.606Z</updated>
+    
+    <content type="html"><![CDATA[<p>前言：电脑系统为window 10专业版，64位<br>本文参考自：<a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">https://www.cnblogs.com/fengxiongZz/p/7707219.html</a> （转载请标明出处，谢谢）</p><p>开始步骤：</p><p>1.安装Node.js和搭配好Node.js环境，打开cmd命令窗口<br><a id="more"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;前言：电脑系统为window 10专业版，64位&lt;br&gt;本文参考自：&lt;a href=&quot;https://www.cnblogs.com/fengxiongZz/p/7707219.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.cnblogs.com/fengxiongZz/p/7707219.html&lt;/a&gt; （转载请标明出处，谢谢）&lt;/p&gt;
+&lt;p&gt;开始步骤：&lt;/p&gt;
+&lt;p&gt;1.安装Node.js和搭配好Node.js环境，打开cmd命令窗口&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://yoursite.com/2018/06/10/about/"/>
+    <id>http://yoursite.com/2018/06/10/about/</id>
+    <published>2018-06-10T09:22:43.000Z</published>
+    <updated>2018-06-10T10:30:12.351Z</updated>
+    
+    <content type="html"><![CDATA[<p>##关于我</p><p>一个正在努力学习前端知识的小菜鸟<br>(今天又是充满希望的一天！)<br><a id="more"></a></p><p>个人邮箱：<a href="mailto:1173284559@qq.com" target="_blank" rel="noopener">1173284559@qq.com</a><br>QQ：1173284559</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##关于我&lt;/p&gt;
+&lt;p&gt;一个正在努力学习前端知识的小菜鸟&lt;br&gt;(今天又是充满希望的一天！)&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
