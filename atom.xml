@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-06-10T12:20:27.606Z</updated>
+  <updated>2018-06-10T12:50:32.927Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>基于Hexo和github搭建的博客</title>
-    <link href="http://yoursite.com/2018/06/10/%E5%9F%BA%E4%BA%8EHexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/06/10/基于Hexo和github搭建的博客/</id>
+    <link href="http://yoursite.com/2018/06/10/%E5%9F%BA%E4%BA%8Ehexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2018/06/10/基于hexo和github搭建博客/</id>
     <published>2018-06-10T10:29:08.000Z</published>
-    <updated>2018-06-10T12:20:27.606Z</updated>
+    <updated>2018-06-10T12:50:32.927Z</updated>
     
-    <content type="html"><![CDATA[<p>前言：电脑系统为window 10专业版，64位<br>本文参考自：<a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">https://www.cnblogs.com/fengxiongZz/p/7707219.html</a> （转载请标明出处，谢谢）</p><p>开始步骤：</p><p>1.安装Node.js和搭配好Node.js环境，打开cmd命令窗口<br><a id="more"></a></p>]]></content>
+    <content type="html"><![CDATA[<p>前言：电脑系统为window 10专业版，64位<br>本文参考自：<a href="https://www.cnblogs.com/fengxiongZz/p/7707219.html" target="_blank" rel="noopener">https://www.cnblogs.com/fengxiongZz/p/7707219.html</a> （转载请标明出处，谢谢）</p><p>开始步骤：</p><p>1.安装Node.js和搭配好Node.js环境，打开cmd命令窗口<br><a id="more"></a></p><p><img src="/2018/06/10/基于hexo和github搭建博客/01.jpg" alt="&quot;成功下载node&quot;"></p>]]></content>
     
     <summary type="html">
     
